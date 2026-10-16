@@ -1,15 +1,9 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Số nhóm:
-- Đề CS13:
-- Link repo bài làm:
+- Tên nhóm: ABU
+- Đề CS13: Đề 1 · SổSạch — Trợ lý đọc hoá đơn đầu vào cho văn phòng kế toán dịch vụ
+- Link repo bài làm: https://github.com/khuengha/K4-L3-CS13-ABU-AI-Roadmap
 
 | STT | Họ tên | MSSV | Vai trò/phần việc | Bằng chứng đóng góp |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-
-Thêm dòng theo số thành viên thực tế. Không cần ghi email hoặc thông tin ngoài yêu cầu của lớp. Bằng chứng có thể dẫn đến trang/ô trong Excel nhóm đã cùng làm.
-
-Nếu lớp áp dụng báo cáo cá nhân theo skeleton, mỗi người điền một file `report/team/MSSV_HoTen.md`. Excel và slide được lưu trong repo nhóm; mỗi thành viên nộp link repo trên VLearn.
+| 1 | Nguyễn Hà Khuê | 2A202602938 | Giữ file Excel, điền Nhiệm vụ 0–5: giả thuyết và chấm ưu tiên (`1_Danh sách việc`), mức tự động và cổng đánh giá (`2_Mức tự động`), bảng lộ trình và lịch rà soát (`3_Bảng lộ trình`, `4_Rà soát`), slide lãnh đạo (`5_Slide lãnh đạo` + file slide) | `ABU_CS13.xlsx` các trang 0–6; `ABU_CS13_slide.pptx` |
